@@ -13,4 +13,12 @@
 
 <p>🙃</p>
 
+RIN | BANANA
+------------ | -------------
+FRESH | ROTTEN
+PRETTY | UGLY
+FIRM | SQUISHY
+SMART | DUMB
+SIREN | SILENT
+
 ![banana](/images/!banana.jpeg)
